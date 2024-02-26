@@ -1,0 +1,17 @@
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.Properties.Resources.resources
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.csproj.GenerateResource.cache
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.AssemblyInfo.cs
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.Calculator.resources
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\bin\Debug\net8.0-windows\Calculator_Main.exe
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\bin\Debug\net8.0-windows\Calculator_Main.deps.json
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\bin\Debug\net8.0-windows\Calculator_Main.runtimeconfig.json
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\bin\Debug\net8.0-windows\Calculator_Main.dll
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\bin\Debug\net8.0-windows\Calculator_Main.pdb
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.dll
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\refint\Calculator_Main.dll
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.pdb
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\Calculator_Main.genruntimeconfig.cache
+C:\Users\my pc\Desktop\Fragnel\BCA\2_year\Sem_4\UID\Calculator_Main\Calculator_Main\Calculator_Main\obj\Debug\net8.0-windows\ref\Calculator_Main.dll
